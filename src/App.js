@@ -8,7 +8,6 @@ import Subject from "./components/Subject"
 import Control from "./components/Control"
 import './App.css';
 
-
 class App extends Component {
   constructor(props){
     super(props);
